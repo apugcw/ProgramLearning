@@ -1,0 +1,2 @@
+# ProgramLearning
+秋田県立大学GCWの勉強会資料置き場です
