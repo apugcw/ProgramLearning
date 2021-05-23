@@ -46,14 +46,33 @@ C言語でHello World => [L01_01_hello.c](L01_01_hello.c)
 
 ### 第3回
 
-if文
+if(else)文
+
+比較演算子
+
+while文
 
 for文
 
-while文
+rand()
+
+do-while文
+
+scanf()
+
+switch
 
 #defineについて
 => マジックナンバーについて
 
 -----
 
+### 第4回
+
+配列
+
+名前空間
+
+構造体(クラス)
+
+関数
