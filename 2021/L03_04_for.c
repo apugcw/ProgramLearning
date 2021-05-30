@@ -6,7 +6,7 @@ int main(void){
   
   int counter;
 
-  printf("count up");
+  printf("count up\n");
 
   /* (初期化式; 条件式; 変化式) */
   for(counter = 0; counter < 10; counter++){

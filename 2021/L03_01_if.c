@@ -5,7 +5,7 @@
 int main(void){
   
   /* ここを変更してみてif文のどちらが実行されるのか確認 */
-  int number = 11;
+  int number = 12;
 
   /* 条件にしたがって分岐 */
   if(number == 11){

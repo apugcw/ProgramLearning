@@ -29,11 +29,11 @@ int main(void){
       /* input == 4 */
     case 5:
       /* input == 5 */
-      printf("3～5の間");
+      printf("3～5の間\n");
     break;
     default:
       /* inputが上記以外 */
-      printf("それ以外");
+      printf("それ以外\n");
     break;
   }
 
