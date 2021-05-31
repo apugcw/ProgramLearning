@@ -4,7 +4,15 @@
 これはもっと後にやるべき等意見があればissueなりpullreqなり
 ください
 
-もしかしなくても詰め込みすぎ疑惑あると思うんでだれか分割案ください（第3回）
+vscodeを使ってる人(文字コードがutf-8の人)はpowershellなりcmdなり使うときに```chcp 65001```を使っておくと文字化けが無くなる（はず）
+
+または、vscodeのsetting.jsonに以下を追加してください
+```json
+"terminal.integrated.shellArgs.windows": [
+    "-NoExit",
+    "chcp 65001",
+]
+```
 
 ## 内容
 
