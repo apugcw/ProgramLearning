@@ -7,17 +7,22 @@
 
 ### 最新の資料
 ここには最新年度で使用したファイルのリンクを書いておきます。  
-* [概要](https://github.com/apugcw/ProgramLearning/blob/main/2021/README.md)  
-* [用語集](https://github.com/apugcw/ProgramLearning/blob/main/2021/glossary.md)  
-* [Gitインストールガイド](https://github.com/apugcw/ProgramLearning/blob/main/Git_install.md)
-* [第1回](https://github.com/apugcw/ProgramLearning/blob/main/2021/L01.md)でインストールを行った各ソフトウェアについての注意点
-* [第2回](https://github.com/apugcw/ProgramLearning/blob/main/2021/L02.md)
-  資料
-
+- [概要](./2021/README.md)  
+- [用語集](./2021/glossary.md)  
+- [Gitインストールガイド](./Git_install.md)
+- [第1回](./2021/L01.md)でインストールを行った各ソフトウェアについての注意点
+- [第2回](./2021/L02.md)資料
+- [第3回](./2021/L03.md)資料
+- [第4回](./2021/L04.md)資料
+<!--
+- [第5回](./2021/L05.md)資料
+- [第6回](./2021/L06.md)資料
+- [第7回](./2021/L07.md)資料
+ -->
 ---
 ### バグ報告について  
-バグ報告・改善点・要求などはIssuseでお願いします。  
+バグ報告・改善点・要求などは[Issuse](https://github.com/apugcw/ProgramLearning/issues)でお願いします。  
 
 ---
 ### ライセンスについて
-MIT Licenseにて提供
+[MIT License](./LICENSE)にて提供
