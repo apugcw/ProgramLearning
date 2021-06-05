@@ -1,9 +1,6 @@
 /* プログラミング講習会 */
 
-#include <time.h>
 #include <stdio.h>
-#include <stdlib.h>
-
 
 #define MAX_ENEMY_NUM 6
 #define MAX_FRIEND_NUM 6
