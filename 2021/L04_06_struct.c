@@ -17,19 +17,19 @@ typedef struct _TAG_Character Character;
 
 int main(void){
   /* 自分の作った構造体型で変数を宣言 */
-  Character tkr;
+  Character character;
 
   /* 値の代入 */
-  strcpy(tkr.name, "主人公"); /* 文字列の代入 */
-  tkr.hp = 72;
-  tkr.atk = 68;
-  tkr.def = 91;
+  strcpy(character.name, "主人公"); /* 文字列の代入 */
+  character.hp = 72;
+  character.atk = 68;
+  character.def = 91;
 
   /* 値の参照 */
-  printf("name: %s\n", tkr.name);
-  printf("hp  : %2d\n", tkr.hp);
-  printf("atk : %2d\n", tkr.atk);
-  printf("def : %2d\n", tkr.def);
+  printf("name: %s\n", character.name);
+  printf("hp  : %2d\n", character.hp);
+  printf("atk : %2d\n", character.atk);
+  printf("def : %2d\n", character.def);
 
   return 0;
 }
