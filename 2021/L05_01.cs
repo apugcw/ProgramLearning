@@ -5,12 +5,16 @@ using System;
 
 class Sample //クラス
 {
-    int r; //メンバ変数
+    public int r; //メンバ変数
     public void Circle() //メンバ関数
     {
         double cir = 2 * 3.14 * r;
         Console.WriteLine("半径：" + r + ", 円周の長さ：" + cir);
     }
+}
+
+class Sample2
+{
     public static void Main()
     {
         Sample cls = new Sample(); //１行の形でインスタンスを生成
