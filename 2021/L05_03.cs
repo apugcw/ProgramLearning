@@ -4,7 +4,7 @@ using System;
     {
         string name;
         int age;
-        public Person(string name, int age)
+        public Person(string name, int age) //これがコンストラクタ
         {
             this.name = name;
             this.age = age;
@@ -16,7 +16,7 @@ using System;
     {
         int id;
         string department;
-        public Employee(string name, int age, int id, string department) : base(name, age)
+        public Employee(string name, int age, int id, string department) : base(name, age) //これがコンストラクタ
         {
             this.id = id;
             this.department = department;
