@@ -1,3 +1,5 @@
+/*プログラミング講習会*/
+
 using System;
 
  class Person //Personクラス
